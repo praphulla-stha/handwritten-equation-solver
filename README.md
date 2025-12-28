@@ -12,6 +12,8 @@ With the growing reliance on digital tools in education and communication, there
   - Arithmetic equations
   - Systems of linear equations
   - Polynomial equations
+
+## Project Demo
 ![Project Demo](demo.gif)
 ## 🚀 Features
 
